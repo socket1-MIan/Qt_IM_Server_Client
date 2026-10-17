@@ -1,0 +1,48 @@
+# ===== 构建产物 =====
+build/
+build-*/
+x64/
+Debug/
+Release/
+*.exe
+*.dll
+*.lib
+*.obj
+*.o
+*.pdb
+*.ilk
+*.exp
+*.so
+*.a
+
+# ===== Qt 自动生成 =====
+*.pro.user
+*.pro.user.*
+moc_*.cpp
+moc_*.h
+qrc_*.cpp
+ui_*.h
+Makefile*
+*.Debug
+*.Release
+.qmake.stash
+
+# ===== FFmpeg 库 =====
+ffmpeg-8.1.2-full_build-shared/
+
+# ===== IDE =====
+.vs/
+.vscode/
+*.suo
+*.user
+
+# ===== 运行时缓存 =====
+Image/
+JSON/
+JSON_Imager/
+offlineImageMsg/
+
+# ===== 系统 =====
+Thumbs.db
+.DS_Store
+desktop.ini
