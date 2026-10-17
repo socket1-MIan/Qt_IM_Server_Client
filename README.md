@@ -1,3 +1,4 @@
+<img width="845" height="552" alt="动画" src="https://github.com/user-attachments/assets/382ebab4-8986-419c-9972-ad970d6ee7ec" />
 项目简介： 独立开发的桌面端即时通讯应用，完整实现登录注册、好友管理、添加好友、单聊 / 群聊、实时音视频通话等核心功能。
 在客户端业务方面做了下列核心功能 
 
