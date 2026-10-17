@@ -34,6 +34,7 @@
 
 <img width="803" height="572" alt="动画" src="https://github.com/user-attachments/assets/c033877d-1783-4f51-b520-39fbbd62b145" />
 
+<img width="974" height="734" alt="image" src="https://github.com/user-attachments/assets/505b439b-24ce-4acd-bc16-ed38461c0c0b" />
 
 
 
