@@ -32,6 +32,7 @@
 
 ## 🖼️ 客户端效果预览
 
+<img width="803" height="572" alt="动画" src="https://github.com/user-attachments/assets/c033877d-1783-4f51-b520-39fbbd62b145" />
 
 
 
